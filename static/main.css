@@ -251,7 +251,7 @@ nav {
 .main-message h3 {
   font-size: 4rem;
   margin: 1rem 0;
-  color: rgba(249, 105, 14, 1);
+  color: rgb(255, 255, 255);
   background: linear-gradient(
     to right,
     rgba(249, 14, 14) 0%,
