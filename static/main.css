@@ -21,11 +21,11 @@ html {
 
 a {
   text-decoration: none;
-  color: rgb(3, 155, 155);
+  color: rgb(167, 67, 67);
 }
 
 a:hover {
-  color: rgba(249, 105, 14, 1);
+  color: rgba(249, 14, 14);
 }
 
 ul {
@@ -79,7 +79,7 @@ nav {
   margin: 5px 0;
   background: linear-gradient(
     135deg,
-    rgba(249, 105, 14, 1) 0%,
+    rgba(249, 14, 14) 0%,
     rgb(255, 255, 255) 100%
   );
 }
@@ -89,7 +89,7 @@ nav {
   height: 3px;
   background: linear-gradient(
     135deg,
-    rgba(249, 105, 14, 1) 0%,
+    rgba(249, 14, 14) 0%,
     rgb(255, 255, 255) 100%
   );
 }
@@ -101,7 +101,7 @@ nav {
   margin-left: 15px;
   background: linear-gradient(
     135deg,
-    rgba(249, 105, 14, 1) 0%,
+    rgba(249, 14, 14) 0%,
     rgb(255, 255, 255) 100%
   );
 }
@@ -161,7 +161,7 @@ nav {
 }
 
 .nav-link:hover {
-  color: rgba(249, 105, 14, 1);
+  color: rgba(249, 14, 14);
 }
 
 .toggle {
@@ -198,7 +198,7 @@ nav {
   height: 100vh;
   background: linear-gradient(
       135deg,
-      rgba(34, 77, 29, 0.9) 0%,
+      rgba(56, 143, 48) 0%,
       rgba(14, 14, 14, 0.8) 100%
     ),
     url("images/landing-page.png") center no-repeat;
@@ -255,7 +255,7 @@ nav {
   background: linear-gradient(
     to right,
     rgba(249, 14, 14) 0%,
-    rgba(102, 51, 153, 1) 100%
+    rgba(56, 143, 48) 100%
   );
   -webkit-background-clip: text;
   background-clip: inherit;
@@ -274,7 +274,7 @@ nav {
 
 .btn {
   margin: 0 9px;
-  background: rgba(3, 155, 155);
+  background: rgba(167, 67, 67);
   border-radius: 2rem;
   color: #fafafa;
   padding: 1rem 2.5rem;
@@ -287,7 +287,7 @@ nav {
 
 .btn:hover {
   color: #fafafa;
-  background-color: rgba(189, 72, 0);
+  background-color: rgba(249, 14, 14);
 }
 
 .scroll-down i {
@@ -298,7 +298,7 @@ nav {
 }
 
 .scroll-down i:hover {
-  color: rgba(189, 72, 0);
+  color: rgba(249, 14, 14);
 }
 
 /* About */
@@ -347,7 +347,7 @@ hr {
   background: linear-gradient(
     to right,
     rgb(194, 47, 28) 0%,
-    rgb(44, 11, 134) 100%
+    rgb(56, 143, 48) 100%
   );
   border: 0;
   height: 1px;
@@ -403,7 +403,7 @@ hr {
   background: linear-gradient(
     to right,
     rgba(249, 14, 14) 0%,
-    rgba(102, 51, 153, 1) 100%
+    rgba(56, 143, 48) 100%
   );
   -webkit-background-clip: text;
   
